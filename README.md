@@ -1,3 +1,9 @@
-# Hello
+My name is Valeriy Strilets, I am a developer from Ukraine. I have a wife, a child, a dog, and a car. Despite the war, I still enjoy life.
 
-I'm Valerii Strilets, a JavaScript senior software engineer and content creator at [@wannabe.school](https://www.instagram.com/wannabe.school/). I'm passionate about web development, open-source, and building communities. Feel free to reach out to me on [GitHub](https://github.com/letstri) or [LinkedIn](https://www.linkedin.com/in/valerii-strilets).
+Everything you see on my profile are projects I build to improve my and your development workflow. 
+
+The main goals when creating libraries and applications are simplicity and quality. I love creating beautiful interfaces and making them attractive not only from a development point of view.
+
+I have been working as a developer for various companies since 2016, but I started writing code and freelancing around 2008.
+
+I would appreciate your support on social media or in any other format.
