@@ -1,4 +1,4 @@
-My name is Valeriy Strilets, I am a developer from Ukraine. I have a wife, a child, a dog, and a car. Despite the war, I still enjoy life.
+My name is Valerii Strilets, I am a developer from Ukraine. I have a wife, a child, a dog, a car and beautiful life.
 
 Everything you see on my profile are projects I build to improve my and your development workflow. 
 
